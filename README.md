@@ -4,7 +4,7 @@ This project is a simple static website that mimics the Netflix landing page for
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Video](#video-link)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
@@ -14,7 +14,7 @@ This project is a simple static website that mimics the Netflix landing page for
 
 ## Video Link
 
-You can see the project [here](#).
+You can see the project [video](https://drive.google.com/file/d/1MLo8wdEWT43xbonaIGNn34SOsZCzRBOX/view?usp=sharing).
 
 ## Features
 
