@@ -12,9 +12,9 @@ This project is a simple static website that mimics the Netflix landing page for
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Video Link
 
-You can see the live demo of the project [here](#).
+You can see the project [here](#).
 
 ## Features
 
@@ -40,7 +40,7 @@ You need a modern web browser and an internet connection to download the assets.
     ```
 2. Navigate to the project directory:
     ```bash
-    cd netflix-pakistan
+    cd netflix-clone-project
     ```
 3. Open the `index.html` file in your preferred web browser.
 
